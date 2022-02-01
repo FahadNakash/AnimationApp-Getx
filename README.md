@@ -1,4 +1,4 @@
-# untitled
+# ANIMATION APP
 
 A new Flutter project.
 
